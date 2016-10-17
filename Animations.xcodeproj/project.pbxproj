@@ -13,6 +13,12 @@
 		F45A28AE1CE2326C00C62C26 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F45A28AD1CE2326C00C62C26 /* Images.xcassets */; };
 		F45A28B11CE2326C00C62C26 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = F45A28AF1CE2326C00C62C26 /* LaunchScreen.xib */; };
 		F45A28BD1CE2326D00C62C26 /* AnimationsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F45A28BC1CE2326D00C62C26 /* AnimationsTests.swift */; };
+		F45A28D81CE239D200C62C26 /* frame1.png in Resources */ = {isa = PBXBuildFile; fileRef = F45A28D21CE239D200C62C26 /* frame1.png */; };
+		F45A28D91CE239D200C62C26 /* frame2.png in Resources */ = {isa = PBXBuildFile; fileRef = F45A28D31CE239D200C62C26 /* frame2.png */; };
+		F45A28DA1CE239D200C62C26 /* frame3.png in Resources */ = {isa = PBXBuildFile; fileRef = F45A28D41CE239D200C62C26 /* frame3.png */; };
+		F45A28DB1CE239D200C62C26 /* frame4.png in Resources */ = {isa = PBXBuildFile; fileRef = F45A28D51CE239D200C62C26 /* frame4.png */; };
+		F45A28DC1CE239D200C62C26 /* frame5.png in Resources */ = {isa = PBXBuildFile; fileRef = F45A28D61CE239D200C62C26 /* frame5.png */; };
+		F45A28DD1CE239D200C62C26 /* frame6.png in Resources */ = {isa = PBXBuildFile; fileRef = F45A28D71CE239D200C62C26 /* frame6.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +42,12 @@
 		F45A28B61CE2326D00C62C26 /* AnimationsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AnimationsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F45A28BB1CE2326D00C62C26 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F45A28BC1CE2326D00C62C26 /* AnimationsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationsTests.swift; sourceTree = "<group>"; };
+		F45A28D21CE239D200C62C26 /* frame1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = frame1.png; sourceTree = "<group>"; };
+		F45A28D31CE239D200C62C26 /* frame2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = frame2.png; sourceTree = "<group>"; };
+		F45A28D41CE239D200C62C26 /* frame3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = frame3.png; sourceTree = "<group>"; };
+		F45A28D51CE239D200C62C26 /* frame4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = frame4.png; sourceTree = "<group>"; };
+		F45A28D61CE239D200C62C26 /* frame5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = frame5.png; sourceTree = "<group>"; };
+		F45A28D71CE239D200C62C26 /* frame6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = frame6.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +92,12 @@
 				F45A28A61CE2326C00C62C26 /* AppDelegate.swift */,
 				F45A28A81CE2326C00C62C26 /* ViewController.swift */,
 				F45A28AA1CE2326C00C62C26 /* Main.storyboard */,
+				F45A28D21CE239D200C62C26 /* frame1.png */,
+				F45A28D31CE239D200C62C26 /* frame2.png */,
+				F45A28D41CE239D200C62C26 /* frame3.png */,
+				F45A28D51CE239D200C62C26 /* frame4.png */,
+				F45A28D61CE239D200C62C26 /* frame5.png */,
+				F45A28D71CE239D200C62C26 /* frame6.png */,
 				F45A28AD1CE2326C00C62C26 /* Images.xcassets */,
 				F45A28AF1CE2326C00C62C26 /* LaunchScreen.xib */,
 				F45A28A41CE2326C00C62C26 /* Supporting Files */,
@@ -192,8 +210,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F45A28D91CE239D200C62C26 /* frame2.png in Resources */,
+				F45A28DA1CE239D200C62C26 /* frame3.png in Resources */,
+				F45A28DB1CE239D200C62C26 /* frame4.png in Resources */,
 				F45A28AC1CE2326C00C62C26 /* Main.storyboard in Resources */,
+				F45A28D81CE239D200C62C26 /* frame1.png in Resources */,
+				F45A28DC1CE239D200C62C26 /* frame5.png in Resources */,
 				F45A28B11CE2326C00C62C26 /* LaunchScreen.xib in Resources */,
+				F45A28DD1CE239D200C62C26 /* frame6.png in Resources */,
 				F45A28AE1CE2326C00C62C26 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
